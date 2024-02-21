@@ -3,4 +3,3 @@ for MDIA 3292
 my name is Minty Yan
 Oct 30th
 trying to change this
-student number:A01319557
